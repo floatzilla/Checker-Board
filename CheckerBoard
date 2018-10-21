@@ -1,0 +1,22 @@
+//Checker Board App
+//John G
+
+#include "pch.h"
+#include <iostream>
+#include <string>
+
+class checkerBoard 
+{
+public:
+	void initBoard()
+	{
+	
+	}
+private:
+	char board[8][8];
+};
+int main()
+{
+	
+    return 0;
+}
